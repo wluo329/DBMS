@@ -1,2 +1,1 @@
-# Databases-Coursework
-Currently in progress (Spring 2023)
+Database Management System Implementation
