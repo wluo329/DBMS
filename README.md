@@ -1,1 +1,1 @@
-Database management implementation that supports transactions in series. Support for  Added support for B+ tree indices, efficient join algorithms, query optimization, multi granularity locking, and ARIES recovery manager
+Database management implementation that supports transactions in series. Support for  Added support for B+ tree indices, efficient join algorithms, query optimization, multi granularity locking, and ARIES recovery manager. Also added some complex SQL and MQL queries I've created.
