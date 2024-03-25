@@ -1,1 +1,1 @@
-Database Management System Implementation
+Database management implementation that supports transactions in series. Support for  Added support for B+ tree indices, efficient join algorithms, query optimization, multi granularity locking, and ARIES recovery manager
